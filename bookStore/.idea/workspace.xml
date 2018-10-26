@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/jsp/customer_list.jsp" line="61" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98640a81-a035-450f-8cf7-86c443cf3caa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/BookQueryObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/QueryObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/IBooksDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/IBooksDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/BooksDAOimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/BooksDAOimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/CustomerBooksServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/CustomerBooksServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/ManagerBooksServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/ManagerBooksServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/809d92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/d7adf3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/showTime.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/showTime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/cart_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/cart_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/customer_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/customer_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/IBooksDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/IBooksDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/impl/BooksDAOimpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/impl/BooksDAOimpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/impl/BooksDAOimpl$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/impl/BooksDAOimpl$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/impl/BooksDAOimpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/dao/impl/BooksDAOimpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/service/BookService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/service/BookService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/service/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/test/text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/web/servlet/books/CustomerBooksServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/web/servlet/books/CustomerBooksServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/web/servlet/books/ManagerBooksServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/web/servlet/books/ManagerBooksServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/web/servlet/user/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nchu/bookstore/web/servlet/user/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/Login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/Login_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/Register_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/Register_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/Register_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/Register_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/error/_404_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/error/_404_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/error/_500_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/error/_500_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/cart_005flist_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/cart_005flist_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/cart_005flist_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/cart_005flist_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/customer_005flist_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/customer_005flist_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/customer_005flist_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/customer_005flist_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/edit_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/edit_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/list_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/list_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/list_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/list_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/lookup_005flist_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/lookup_005flist_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/show_005fbooks_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/jsp/show_005fbooks_jsp.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="customer_list.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/customer_list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2640">
+              <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerBooksServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/CustomerBooksServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Books.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/domain/Books.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageDigestType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/util/MessageDigestType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdbcUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/util/JdbcUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart_list.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/cart_list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1590">
+              <caret line="53" column="103" selection-start-line="53" selection-start-column="103" selection-end-line="53" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/edit.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookQueryObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/BookQueryObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/QueryObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/filter/TestFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/filter/TestServler.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/test.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/filter/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/CodeServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/purchase.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/domain/Books.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/test/BooksDAOimplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/entity/CartItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/ICartItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/CartItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/entity/shoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/test/CartItemDAOimplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/domain/CartItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/service/ShopingCartService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/shopping/PurchaseServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/util/JdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/ShoppingCartServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/ShowBooksServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/error/404.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/error/500.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/upload/UploadServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/show_books.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/LookupServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/test/text.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/domain/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/Login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/lookup_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/CartItemDAOimpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/user/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/QueryObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/PageResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/IBooksDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/service/BookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/BookQueryObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/BooksDAOimpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/CustomerBooksServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/ManagerBooksServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/showTime.js___jb_old___" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/demo1.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/showTime.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/demo.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/customer_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/Register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/cart_list.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\study\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookStore Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookStore Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-50" />
+    <option name="y" value="50" />
+    <option name="width" value="1015" />
+    <option name="height" value="890" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nchu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nchu" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nchu" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nchu" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\IdeaCode\newbookStore\src\main\webapp" />
+      <recent name="D:\study\IdeaCode\bookStore\src\main\webapp\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nchu.bookstore.web.servlet.books" />
+      <recent name="com.nchu.bookstore.web.servlet.shopping" />
+      <recent name="com.nchu.bookstore.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\IdeaCode\bookStore\src\main\webapp\css" />
+      <recent name="D:\study\IdeaCode\bookStore\src\main\webapp\images" />
+      <recent name="D:\study\IdeaCode\bookStore\src\main\webapp\js" />
+      <recent name="D:\study\IdeaCode\bookStore\src\main\webapp" />
+      <recent name="D:\study\IdeaCode\bookStore\src\main\webapp\jsp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.text">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nchu.bookstore.test.text" />
+      <module name="bookStore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.bookstore.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CartItemDAOimplTest.TestDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.bookstore.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.nchu.bookstore.test" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.bookstore.test.CartItemDAOimplTest" />
+      <option name="METHOD_NAME" value="TestDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CartItemDAOimplTest.TestGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.bookstore.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.nchu.bookstore.test" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.bookstore.test.CartItemDAOimplTest" />
+      <option name="METHOD_NAME" value="TestGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CartItemDAOimplTest.TestList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.bookstore.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.nchu.bookstore.test" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.bookstore.test.CartItemDAOimplTest" />
+      <option name="METHOD_NAME" value="TestList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CartItemDAOimplTest.TestSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.bookstore.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.nchu.bookstore.test" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.bookstore.test.CartItemDAOimplTest" />
+      <option name="METHOD_NAME" value="TestSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CartItemDAOimplTest.TestSave" />
+      <item itemvalue="JUnit.CartItemDAOimplTest.TestDelete" />
+      <item itemvalue="JUnit.CartItemDAOimplTest.TestGet" />
+      <item itemvalue="JUnit.CartItemDAOimplTest.TestList" />
+      <item itemvalue="Application.text" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.text" />
+        <item itemvalue="JUnit.CartItemDAOimplTest.TestList" />
+        <item itemvalue="JUnit.CartItemDAOimplTest.TestGet" />
+        <item itemvalue="JUnit.CartItemDAOimplTest.TestSave" />
+        <item itemvalue="JUnit.CartItemDAOimplTest.TestDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98640a81-a035-450f-8cf7-86c443cf3caa" name="Default" comment="" />
+      <created>1531556153295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531556153295</updated>
+      <workItem from="1531556157285" duration="2292000" />
+      <workItem from="1531566342153" duration="2969000" />
+      <workItem from="1531614029966" duration="8996000" />
+      <workItem from="1531623197864" duration="2024000" />
+      <workItem from="1531625253293" duration="149000" />
+      <workItem from="1531634182527" duration="10999000" />
+      <workItem from="1531650945265" duration="5298000" />
+      <workItem from="1531663097783" duration="1888000" />
+      <workItem from="1531700221272" duration="10323000" />
+      <workItem from="1531720916243" duration="15000" />
+      <workItem from="1531809330834" duration="8102000" />
+      <workItem from="1531825128872" duration="5639000" />
+      <workItem from="1531872968359" duration="10615000" />
+      <workItem from="1531895138543" duration="4486000" />
+      <workItem from="1531922756686" duration="899000" />
+      <workItem from="1531960228639" duration="4620000" />
+      <workItem from="1531977699075" duration="1560000" />
+      <workItem from="1532151223553" duration="1289000" />
+      <workItem from="1532171719113" duration="1356000" />
+      <workItem from="1532567646315" duration="7145000" />
+      <workItem from="1532658796448" duration="1273000" />
+      <workItem from="1532671086291" duration="1684000" />
+      <workItem from="1532674478172" duration="891000" />
+      <workItem from="1532852302800" duration="744000" />
+      <workItem from="1533461168481" duration="1298000" />
+      <workItem from="1533628186356" duration="37000" />
+      <workItem from="1535801964153" duration="1216000" />
+      <workItem from="1535806025698" duration="2784000" />
+      <workItem from="1536202476331" duration="435000" />
+      <workItem from="1538896268877" duration="66000" />
+      <workItem from="1539849512662" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BooksDAOimplTest_TestUpdate - 2018.07.16 at 09h 21m 52s.xml">
+      <configuration name="BooksDAOimplTest.TestUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestSave - 2018.07.16 at 10h 19m 14s.xml">
+      <configuration name="CartItemDAOimplTest.TestSave" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestUpdate - 2018.07.16 at 10h 20m 38s.xml">
+      <configuration name="CartItemDAOimplTest.TestUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestUpdate - 2018.07.16 at 10h 22m 36s.xml">
+      <configuration name="CartItemDAOimplTest.TestUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestDelete - 2018.07.16 at 10h 22m 55s.xml">
+      <configuration name="CartItemDAOimplTest.TestDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestSave - 2018.07.16 at 10h 23m 08s.xml">
+      <configuration name="CartItemDAOimplTest.TestSave" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestSave - 2018.07.16 at 10h 23m 13s.xml">
+      <configuration name="CartItemDAOimplTest.TestSave" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestSave - 2018.07.16 at 10h 23m 16s.xml">
+      <configuration name="CartItemDAOimplTest.TestSave" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestGet - 2018.07.16 at 10h 24m 17s.xml">
+      <configuration name="CartItemDAOimplTest.TestGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartItemDAOimplTest_TestList - 2018.07.16 at 10h 24m 30s.xml">
+      <configuration name="CartItemDAOimplTest.TestList" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="101129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.4430295" />
+      <window_info anchor="bottom" id="JRebel Executor" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.338257" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49618322" visible="true" weight="0.19571045" />
+      <window_info id="Web" order="7" sideWeight="0.5038168" side_tool="true" weight="0.2580429" />
+      <window_info id="JRebel" order="5" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32890856" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890856" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/QueryObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/l.java" />
+    <entry file="file://$PROJECT_DIR$/bookStore.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/domain/CartItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/UserDAOimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/CartItemDAOimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1427">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/lookup_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/IBooksDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/service/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/util/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/filter/CharacterEncodeingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/dao/impl/BooksDAOimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="106" column="59" selection-start-line="106" selection-start-column="59" selection-end-line="106" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/ManagerBooksServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/LookupServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/cart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/2a347a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/404.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/aygd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/be7502.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/bookimage.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/book3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/background2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/cart_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/cc197d.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/discount3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/discount4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/discount2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/discount.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/showTime.js___jb_old___" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/showTime.js___jb_old______jb_old___" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/showTime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="96" column="18" selection-start-line="96" selection-start-column="18" selection-end-line="96" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/cartbg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/BookQueryObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/query/QueryObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/cart_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="53" column="103" selection-start-line="53" selection-start-column="103" selection-end-line="53" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/customer_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/web/servlet/books/CustomerBooksServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/domain/Books.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/util/MessageDigestType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/util/StringHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3293">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nchu/bookstore/util/JdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>bookStore:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bookStore</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet.jsp.jstl:jstl:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

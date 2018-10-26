@@ -1,0 +1,65 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;;
+}
+#igs img {
+    height:400px;
+    width: 1000px;
+}
+
+#igs{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.ig {
+    position: absolute;
+}
+
+.btn{
+    top:200px;
+    position: absolute;
+    height:90px;
+    width: 60px;
+    background-color: rgba(0, 0, 40, 0.5);
+    opacity:0.6;
+    color: #fff;
+    text-align: center;/*水平居中*/
+    line-height: 90px;/*设置了行高 相当于垂直居中*/
+    font-size: 40px;/*设置 < > 大小*/
+    margin-top:230px;
+    cursor: pointer;/*设置鼠标放上去 鼠标形状改变*/
+    display: none;
+}
+
+.bt1{
+    margin-left: 250px;
+}
+
+.bt2{
+    margin-left: 1190px;
+}
+
+
+#tabs{
+    position: absolute;
+    margin-top:500px;
+    margin-left: 650px;
+}
+
+.tab {
+    width: 30px;
+    height:30px;
+    background-color: #5833e8;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 10px;
+    color:white;/*字体白色*/
+    border-radius: 100%;/*边框弧度*/
+    cursor: pointer;
+}
+.bg{
+    background-color: red;}
